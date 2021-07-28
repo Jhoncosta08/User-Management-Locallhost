@@ -1,0 +1,37 @@
+.cadastro-content {
+  margin: 10px;
+  padding: 20px 70px 20px 70px;
+  background: #fff;
+  border-radius: 10px;
+  -webkit-box-shadow: 3px 4px 14px 0px rgba(0, 0, 0, 0.39);
+  -moz-box-shadow: 3px 4px 14px 0px rgba(0, 0, 0, 0.39);
+  box-shadow: 3px 4px 14px 0px rgba(0, 0, 0, 0.39);
+}
+
+.lista-clientes-box {
+  margin: 10px;
+  padding: 20px 35px 20px 35px;
+  background: #fff;
+  border-radius: 10px;
+  -webkit-box-shadow: 3px 4px 14px 0px rgba(0, 0, 0, 0.39);
+  -moz-box-shadow: 3px 4px 14px 0px rgba(0, 0, 0, 0.39);
+  box-shadow: 3px 4px 14px 0px rgba(0, 0, 0, 0.39);
+}
+
+.cliente-box {
+  border: 1px solid #000000;
+  border-radius: 4px;
+  padding: 10px;
+  margin-top: 3px;
+  font-size: 13px;
+}
+
+.pendente {
+  font-weight: 600;
+  color: #cda800;
+}
+
+.aprovado {
+  font-weight: 600;
+  color: #00bb0b;
+}

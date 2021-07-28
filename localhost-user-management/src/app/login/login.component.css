@@ -1,0 +1,49 @@
+.login-body{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  text-align: center;
+  background: -moz-linear-gradient(60deg, #fff 0%, #4b5558 100%);
+  background: -webkit-linear-gradient(60deg, #fff 0%, #4b5558 100%);
+  background: linear-gradient(60deg, #fff 0%, #4b5558 100%);
+}
+
+.login-box {
+  width: 370px;
+  height: 370px;
+  margin: 10px;
+  padding: 10px;
+  background: #fff;
+  border-radius: 10px;
+  -webkit-box-shadow: 3px 4px 14px 0px rgba(0, 0, 0, 0.39);
+  -moz-box-shadow: 3px 4px 14px 0px rgba(0, 0, 0, 0.39);
+  box-shadow: 3px 4px 14px 0px rgba(0, 0, 0, 0.39);
+}
+
+.login-box form {
+  margin-top: 20px;
+}
+
+.label-box {
+  width: 100%;
+  text-align: left;
+}
+
+.input-box input {
+  width: 100%;
+}
+
+.button-box {
+  margin-top: 30px;
+}
+
+.button-box button {
+  width: 100%;
+}
+
+.login-title {
+  padding-top: 30px;
+}
