@@ -1,6 +1,6 @@
 ## Summary:
 
-Angular design of a management system
+Angular project of a management system
 of users, users are saved to localhost
 
 
