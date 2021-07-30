@@ -13,6 +13,7 @@ You can access more information about the node at:
 [https://nodejs.org/en/](https://nodejs.org/en/)
 
 - [x] The Angular installed is required to run this project
+
 You can access more information about angular at:
 
 [https://angular.io/](https://angular.io/)
